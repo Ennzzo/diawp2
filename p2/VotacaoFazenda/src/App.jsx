@@ -3,6 +3,7 @@ import Header from './components/Header';
 import Home from './pages/Home';
 import Votacao from './pages/Votacao';
 import Resultado from './pages/Resultado';
+import './App.css';
 
 function App() {
   return (
